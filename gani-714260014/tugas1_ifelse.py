@@ -9,3 +9,5 @@ print(f"# Nama: {Nama}")
 print(f"# NIM: {NIM}")
 print(f"# Kelas: {Kelas}")
 print("# ===============================")
+if Nama == "" or NIM == "" or Kelas == "":
+    print(" Error: Pastikan semua identitas diisi dengan benar.")  
