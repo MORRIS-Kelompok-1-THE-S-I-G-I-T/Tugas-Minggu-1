@@ -19,21 +19,24 @@ print("--------------------------------")
 # --- Bagian proses ---
 if operator == "+":
     hasil = angka1 + angka2
-    print(f"Hasil: {angka1} {angka2} = {hasil:.2f}")
+    print(f"Hasil: {angka1} + {angka2} = {hasil:.2f}")
 
 elif operator == "-":
+    hasil = angka1 - angka2
     print(f"Hasil: {angka1} - {angka2} = {hasil:.2f}")
 
 elif operator == "*":
     hasil = angka1 * angka2
-    print(f"Hasil: {angka1} x {angka2} = {hasil:.2f}")
+    print(f"Hasil: {angka1} * {angka2} = {hasil:.2f}")
 
 elif operator == "/":
     if angka2 == 0:
         print("Kesalahan: bilangan tidak dapat dibagi dengan nol.")
+    elif angka1 == 0:
+        print("Kesalahan: bilangan nol tidak dapat dibagi dengan bilangan lain.")
     else:
         hasil = angka1 / angka2
-        print(f"Hasil: {angka1} : {angka2} = {hasil:.2f}")
+        print(f"Hasil: {angka1} / {angka2} = {hasil:.2f}")
 
 else:
     print(f"operator '{operator}' tidak dikenali.")
