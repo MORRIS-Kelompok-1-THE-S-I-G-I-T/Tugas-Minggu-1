@@ -35,8 +35,8 @@ else:
     else:
         status = "Tidak Lulus"
 
-    print(f"Nilai Akhir : {nilai:g}")
-    print(f"Huruf Mutu  : {huruf}")
+    print(f"Nilai       : {nilai:g}")
+    print(f"Huruf       : {huruf}")
     print(f"Status      : {status}")
 
 print(GARIS)
