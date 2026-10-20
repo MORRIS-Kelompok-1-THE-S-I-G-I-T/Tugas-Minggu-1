@@ -1,0 +1,13 @@
+print("Format komentar identitas")
+print("# ===============================")
+print("# Tugas mandiri modul 1 - Program percabangan")
+Nama = input("isi nama lengkap: ")
+NIM = input("isi NIM: ")
+Kelas = input("isi kelas: ")
+print("# ===============================")
+print(f"# Nama: {Nama}")
+print(f"# NIM: {NIM}")
+print(f"# Kelas: {Kelas}")
+print("# ===============================")
+if Nama == "" or NIM == "" or Kelas == "":
+    print(" Error: Pastikan semua identitas diisi dengan benar.")  
