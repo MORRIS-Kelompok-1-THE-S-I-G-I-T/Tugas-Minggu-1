@@ -10,7 +10,7 @@ try:
 except ValueError:
     nilai = None
 
-print("====================================")
+print("=====================================")
 
 if nilai is None:
     print("Error: input tidak valid, harap masukkan angka")
