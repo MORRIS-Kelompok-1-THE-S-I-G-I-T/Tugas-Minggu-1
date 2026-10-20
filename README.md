@@ -1,15 +1,14 @@
-# Tugas-Minggu-1
+# Tugas-Minggu-1 
+nama : radyth tirta prasetyo
+NPM : 613260023
+kelompok : 01 the sigit
 
-Nama: Alyssa
-NPM: 613260001
-Kelompok: 01
+folder ini berisi latihan dan tugas modul pada pelatihan MORRIS Teknik informatika 2026
 
-Folder ini berisi latihan dan tugas modul 1 pada pelatihan MORRIS Teknik Informatika 2026
+## daftar berkas 
+-latihan_kalkulator.py : kalkulator sederhana
+-tugas_ifelse.py : program percabgangan If-else
 
-##Daftar Berkas
--latihan1_kalkulator.py:kalkulator konsol sederhana
--tugas_ifelse.py :program percabangan if-Else
-
-##Cara Menjalankan
-Jalankan perintah berikut pada terminal:
-python latihan1_kalkulator.py
+## cara menjalankan 
+jalankan perintah berikut pada terminal:
+python latihan_kalkulator.py
