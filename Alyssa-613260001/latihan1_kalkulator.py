@@ -8,13 +8,14 @@ angka2 = float(input("Masukan bilang kedua: "))
 operator = input("Masukan operator(+ - * /): ")
 
 
-print("-----------------------------------")
+print("------------------------------------")
 
 if operator == "+":
     hasil = angka1 + angka2
     print(f"Hasil: {angka1} + {angka2} = {hasil:.2f}")
 
 elif operator == "-":
+    hasil = angka1 - angka2
     print(f"Hasil: {angka1} + {angka2} = {hasil:.2f}")
 
 elif operator == "*":
