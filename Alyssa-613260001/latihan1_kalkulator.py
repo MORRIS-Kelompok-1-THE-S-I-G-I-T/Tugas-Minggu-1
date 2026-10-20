@@ -8,7 +8,7 @@ angka2 = float(input("Masukan bilang kedua: "))
 operator = input("Masukan operator(+ - * /): ")
 
 
-print("-----------------------------------")
+print("------------------------------------")
 
 if operator == "+":
     hasil = angka1 + angka2
