@@ -1,7 +1,7 @@
 # Tugas-Minggu-1
 Nama : Ataya Mahardika
 NPM : 714260013
-Kelompok : 01
+Kelompok : 1 THE S.I.G.I.T
 
 Folder ini berisi latihan dan tugas Modul 1 pada pelatihan MORRIS Teknik Informatika 2026
 
