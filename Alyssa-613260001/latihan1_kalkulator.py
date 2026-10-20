@@ -15,6 +15,7 @@ if operator == "+":
     print(f"Hasil: {angka1} + {angka2} = {hasil:.2f}")
 
 elif operator == "-":
+    hasil = angka1 - angka2
     print(f"Hasil: {angka1} + {angka2} = {hasil:.2f}")
 
 elif operator == "*":
