@@ -1,6 +1,6 @@
 Nama : Hafsoh Zahidah Nafisah
 NPM : 714260031
-Kelompok : 01 (THE SIGIT)
+Kelompok : 1 (THE SIGIT)
 
 Folder ini berisi latihan dan tugas Modul 1 pada pelatihan MORRIS Teknik Informatika 2026.
 
