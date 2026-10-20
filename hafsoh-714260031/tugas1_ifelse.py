@@ -23,7 +23,7 @@ if nilai is None:
 elif nilai < 0 or nilai > 100:
     print("ERROR: Masukkan angka antara 0 sampai 100")
 else:
-    if nilai >= 80:
+    if nilai >= 85:
         huruf = "A"
     elif nilai >= 70:
         huruf = "B"
