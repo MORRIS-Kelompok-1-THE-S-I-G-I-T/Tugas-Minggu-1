@@ -32,5 +32,5 @@ else:
     print(f"Operator '{operator}' tidak dikenali.")
     print("Gunakan salah satu dari: + - * /")
 
-print("=================================")
-print("Terima kasih telah menggunakan kalkulator ini.")
+print("=================================")      
+print("Terima kasih telah menggunakan kalkulator ini.")     
