@@ -26,6 +26,6 @@ elif nilai >= 50:
 else:
     print(f"Kamu tidak lulus dengan nilai E")
 
-    
+
 print("===================================")
-print("Hatur Nuhun Dulur")
+print("Hatur Nuhun DulurKu")
