@@ -5,9 +5,9 @@
 # Kelas : 12
 # ===================================================
 
-print("===================================")
-print("     CEK KELULUSAN NILAI MATKUL    ")
-print("===================================")
+print("=========================================")
+print("     CEK KELULUSAN NILAI MATA KULIAH     ")
+print("=========================================")
 
 nilai = float(input("Masukin Nilai 0-100 : "))
 print("-----------------------------------")
@@ -28,5 +28,5 @@ else:
 
 
 print("===================================")
-print("Hatur Nuhun DulurKu")
+print("         Hatur Nuhun DulurKu       ")
 print("===================================")
