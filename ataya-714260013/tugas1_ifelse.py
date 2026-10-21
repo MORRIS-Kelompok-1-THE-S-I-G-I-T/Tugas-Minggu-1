@@ -1,7 +1,7 @@
 # ===============================================
 # Tugas Mandiri Modul 1 - Program Percabangan
 # Nama  : Ataya Mahardika
-# NIM   : 71420013
+# NIM   : 714260013
 # Kelas : 1A
 #================================================
 
