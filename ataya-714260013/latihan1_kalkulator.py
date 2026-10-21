@@ -39,9 +39,7 @@ elif operasi == "*":
     print(f"Hasil: {angka1} * {angka2} = {hasil}")
 elif operasi == "/":
     if angka2 == 0: 
-        print("Error: Pembagian dengan nol tidak diperbolehkan!")
-    elif angka1 == 0:
-        print("Error: Pembagian dengan nol tidak diperbolehkan!")
+        print("Tidak terdefinisi")
     else:
         hasil = angka1 / angka2
         print(f"Hasil: {angka1} / {angka2} = {hasil}")
