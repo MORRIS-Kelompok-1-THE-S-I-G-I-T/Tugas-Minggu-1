@@ -30,7 +30,6 @@ print(GARNIS)
 if operasi == "+":
     hasil = angka1 + angka2
     print(f"Hasil: {angka1} + {angka2} = {hasil}")
-
 elif operasi == "-":
     hasil = angka1 - angka2
     print(f"Hasil: {angka1} - {angka2} = {hasil}")
