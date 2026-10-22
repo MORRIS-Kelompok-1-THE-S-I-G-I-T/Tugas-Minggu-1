@@ -26,10 +26,10 @@ elif nilai >= 85:
 elif nilai >= 70:
          huruf_mutu = "B"
          keterangan = "Lulus"
-elif nilai >= 55:
+elif nilai >= 60:
          huruf_mutu = "C"
          keterangan = "Tidak Lulus"
-elif nilai >= 40:
+elif nilai >= 50:
          huruf_mutu = "D"
          keterangan = "Tidak Lulus"
 else:
@@ -43,5 +43,5 @@ if 0 <= nilai <= 100:
 
 # Tampilan Konsol: Pesan Penutup
 print("-" * 45) # Pemisah
-print("Terima kasih telah menggunakan program ini")
+print("Terima kasih telah menggunakan program ini!")
 print("=" * 45)
