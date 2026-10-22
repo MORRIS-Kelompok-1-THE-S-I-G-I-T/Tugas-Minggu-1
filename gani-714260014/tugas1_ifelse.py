@@ -27,13 +27,13 @@ elif nilai >= 70:
          huruf_mutu = "B"
          keterangan = "Lulus"
 elif nilai >= 55:
-         huruf_mutu = "D"
+         huruf_mutu = "C"
          keterangan = "Tidak Lulus"
 elif nilai >= 40:
-         huruf_mutu = "E"
+         huruf_mutu = "D"
          keterangan = "Tidak Lulus"
 else:
-         huruf_mutu = "T"
+         huruf_mutu = "E"
          keterangan = "Tidak Lulus"
 # 4. Menampilkan Hasil Menggunakan f-string (Hanya jika nilai valid)
 if 0 <= nilai <= 100:
